@@ -1,4 +1,7 @@
 let todos = {
   'first', 'second', 'third'
 };
-function MarasDone(todos) {};
+function MarasDone(todos) {
+  while() {};
+};
+
